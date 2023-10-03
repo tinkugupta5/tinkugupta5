@@ -6,9 +6,7 @@
 - 🔭 I’m currently working in **Infosys**
 
 - 🌱 I’m currently learning **MERN**
-
-- 👯 I’m looking to collaborate on **MERN**
-
+- 
 - 📝 I regularly write articles on [ziontutorial.com](ziontutorial.com)
 
 - 📫 How to reach me **tinku.gupta4@outlook.com**
