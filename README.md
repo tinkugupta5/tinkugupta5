@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinkugupta5&label=Profile%20views&color=0e75b6&style=flat" alt="tinkugupta5" /> </p>
 
-- 🔭 I’m currently working in **Infosys**
-
 - 🌱 I’m currently learning **MERN**
   
-- 📝 I write articles on [ziontutorial.com](ziontutorial.com)
+- 📝 I write Tech articles on [ziontutorial.com](ziontutorial.com)
 
 - 📫 How to reach me **tinku.gupta4@outlook.com**
 
