@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tinku.gupta4@outlook.com**
 
-- 📽️ My YouTube Channel [https://www.youtube.com/@ziontutorial](https://www.youtube.com/@ziontutorial)
+- 📽️ YouTube Channel [https://www.youtube.com/@ziontutorial](https://www.youtube.com/@ziontutorial)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
