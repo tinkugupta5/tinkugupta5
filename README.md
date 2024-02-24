@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tinku Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate React Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinkugupta5&label=Profile%20views&color=0e75b6&style=flat" alt="tinkugupta5" /> </p>
 
 - 🌱 I’m currently learning **MERN**
-  
+- 
+- ✅ Linkedin Profile Link: https://www.linkedin.com/in/tinku-gupta/
+- 
 - 📝 I write Tech articles on [ziontutorial.com](ziontutorial.com)
 
 - 📫 How to reach me **tinku.gupta4@outlook.com**
