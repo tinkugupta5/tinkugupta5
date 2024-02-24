@@ -9,7 +9,7 @@
   
 - 📫 How to reach me **tinku.gupta4@outlook.com**
 
-- - 📝 I write Tech articles on [ziontutorial.com](ziontutorial.com)
+- 📝 I write Tech articles on [ziontutorial.com](ziontutorial.com)
   
 - 📽️ YouTube Channel [https://www.youtube.com/@ziontutorial](https://www.youtube.com/@ziontutorial)
   
