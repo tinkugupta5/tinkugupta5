@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **MERN STACK**
   
 - ✅ Linkedin Profile Link: https://www.linkedin.com/in/tinku-gupta/
-- 
+  
 - 📽️ YouTube Channel [https://www.youtube.com/@ziontutorial](https://www.youtube.com/@ziontutorial)
   
 <h3 align="left">Some Other Work:</h3>
