@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinkugupta5&label=Profile%20views&color=0e75b6&style=flat" alt="tinkugupta5" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK ( Mongo DB | Express | React | Node Js**
+- 🌱 I’m currently learning **MERN STACK ( Mongo DB | Express | React | Node Js )**
   
 - ✅ Linkedin Profile Link: https://www.linkedin.com/in/tinku-gupta/
   
