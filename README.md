@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinkugupta5&label=Profile%20views&color=0e75b6&style=flat" alt="tinkugupta5" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN STACK ( Mongo DB | Express | React | Node Js**
   
 - ✅ Linkedin Profile Link: https://www.linkedin.com/in/tinku-gupta/
   
-- 📽️ YouTube Channel [https://www.youtube.com/@ziontutorial](https://www.youtube.com/@ziontutorial)
   
 <h3 align="left">Some Other Work:</h3>
 <p align="left">
