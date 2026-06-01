@@ -8,7 +8,7 @@
 - ✅ Linkedin Profile Link: https://www.linkedin.com/in/tinku-gupta/
   
   
-<h3 align="left">Some Other Work:</h3>
+<h3 align="left">Other Work:</h3>
 <p align="left">
 <a href="https://dev.to/ziontutorial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ziontutorial" height="30" width="40" /></a>
 <a href="https://instagram.com/tutspanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutspanda" height="30" width="40" /></a>
