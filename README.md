@@ -63,18 +63,6 @@ Building practical AI applications with **LLMs, Agents, RAG, APIs, Automation & 
 
 ---
 
-## 🔬 Currently Exploring
-
-| AI Engineering | Development |
-|---|---|
-| 🧠 Large Language Models | 🐍 Python & FastAPI |
-| 🔎 RAG & Embeddings | 🌐 Full-Stack AI Apps |
-| 🗄️ Vector Databases | 🔗 AI API Integration |
-| 🧩 AI Agents | ⚙️ Workflow Automation |
-| 🛠️ Tool Calling | 🚀 Production AI Systems |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
